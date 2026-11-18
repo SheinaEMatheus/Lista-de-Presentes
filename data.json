@@ -15,16 +15,6 @@
   },
   "presentes": [
     {
-      "id": 99,
-      "nome": "Presente de teste (R$ 1,00)",
-      "categoria": "Teste",
-      "preco": 1,
-      "qtd": 99,
-      "presenteados": 0,
-      "imagem": "",
-      "emoji": "🧪"
-    },
-    {
       "id": 1,
       "nome": "ogo De Frigideiras Tramontina",
       "categoria": "Cozinha",
@@ -236,46 +226,126 @@
     },
     {
       "id": 105,
-      "nome": "Novo presente",
-      "categoria": "Cozinha",
+      "nome": "Aparelho Jantar Alleanza 30 pçs",
+      "categoria": "Cotas",
       "preco": 100,
-      "qtd": 1,
+      "qtd": 6,
       "presenteados": 0,
-      "imagem": "",
+      "imagem": "images/presente-105-1795021551003.jpg",
       "emoji": "🎁"
     },
     {
       "id": 106,
-      "nome": "Novo presente",
+      "nome": "Faqueiro 30 Peças Prateada",
       "categoria": "Cozinha",
-      "preco": 100,
+      "preco": 200,
       "qtd": 1,
       "presenteados": 0,
-      "imagem": "",
+      "imagem": "images/presente-106-1795021648135.jpg",
       "emoji": "🎁"
     },
     {
       "id": 107,
-      "nome": "Novo presente",
+      "nome": "Kit Jogo Americano 12 Peças ",
       "categoria": "Cozinha",
-      "preco": 100,
+      "preco": 130,
       "qtd": 1,
       "presenteados": 0,
-      "imagem": "",
+      "imagem": "images/presente-107-1795021814699.jpg",
       "emoji": "🎁"
     },
     {
       "id": 108,
-      "nome": "Novo presente",
-      "categoria": "Cozinha",
-      "preco": 100,
+      "nome": "Kit Manta Decorativa Boho",
+      "categoria": "Casa",
+      "preco": 160,
       "qtd": 1,
       "presenteados": 0,
-      "imagem": "",
+      "imagem": "images/presente-108-1795022355768.jpg",
       "emoji": "🎁"
     },
     {
       "id": 109,
+      "nome": "Jogo 6 Taças Canelada",
+      "categoria": "Cozinha",
+      "preco": 98,
+      "qtd": 1,
+      "presenteados": 0,
+      "imagem": "images/presente-109-1795022606972.jpg",
+      "emoji": "🎁"
+    },
+    {
+      "id": 110,
+      "nome": "Jogo 6 Copos De Vidro",
+      "categoria": "Cozinha",
+      "preco": 69,
+      "qtd": 1,
+      "presenteados": 0,
+      "imagem": "images/presente-110-1795022712866.jpg",
+      "emoji": "🎁"
+    },
+    {
+      "id": 111,
+      "nome": "Jarra Vidro Tampa Inox",
+      "categoria": "Cozinha",
+      "preco": 80,
+      "qtd": 1,
+      "presenteados": 0,
+      "imagem": "images/presente-111-1795022830509.jpg",
+      "emoji": "🎁"
+    },
+    {
+      "id": 112,
+      "nome": "Boleira Baixa Açucareiro Queijeira Mantegueira ",
+      "categoria": "Cozinha",
+      "preco": 120,
+      "qtd": 1,
+      "presenteados": 0,
+      "imagem": "images/presente-112-1795023009913.jpg",
+      "emoji": "🎁"
+    },
+    {
+      "id": 113,
+      "nome": "Panela De Pressão 4,5l Tramontina",
+      "categoria": "Cozinha",
+      "preco": 169,
+      "qtd": 1,
+      "presenteados": 0,
+      "imagem": "images/presente-113-1795023121882.jpg",
+      "emoji": "🎁"
+    },
+    {
+      "id": 114,
+      "nome": "2 Peças Tábua De CortarNovo presente",
+      "categoria": "Cozinha",
+      "preco": 59,
+      "qtd": 1,
+      "presenteados": 0,
+      "imagem": "images/presente-114-1795023207543.jpg",
+      "emoji": "🎁"
+    },
+    {
+      "id": 115,
+      "nome": "Kit Petisqueira ",
+      "categoria": "Cozinha",
+      "preco": 60,
+      "qtd": 1,
+      "presenteados": 0,
+      "imagem": "images/presente-115-1795023312014.jpg",
+      "emoji": "🎁"
+    },
+    {
+      "id": 116,
+      "nome": "Kit Saleiro Açucareiro Vidro",
+      "categoria": "Cozinha",
+      "preco": 50,
+      "qtd": 1,
+      "presenteados": 0,
+      "imagem": "images/presente-116-1795023418973.jpg",
+      "emoji": "🎁"
+    },
+    {
+      "id": 117,
       "nome": "Novo presente",
       "categoria": "Cozinha",
       "preco": 100,
@@ -285,7 +355,57 @@
       "emoji": "🎁"
     },
     {
-      "id": 110,
+      "id": 118,
+      "nome": "Novo presente",
+      "categoria": "Cozinha",
+      "preco": 100,
+      "qtd": 1,
+      "presenteados": 0,
+      "imagem": "",
+      "emoji": "🎁"
+    },
+    {
+      "id": 119,
+      "nome": "Novo presente",
+      "categoria": "Cozinha",
+      "preco": 100,
+      "qtd": 1,
+      "presenteados": 0,
+      "imagem": "",
+      "emoji": "🎁"
+    },
+    {
+      "id": 120,
+      "nome": "Novo presente",
+      "categoria": "Cozinha",
+      "preco": 100,
+      "qtd": 1,
+      "presenteados": 0,
+      "imagem": "",
+      "emoji": "🎁"
+    },
+    {
+      "id": 121,
+      "nome": "Novo presente",
+      "categoria": "Cozinha",
+      "preco": 100,
+      "qtd": 1,
+      "presenteados": 0,
+      "imagem": "",
+      "emoji": "🎁"
+    },
+    {
+      "id": 122,
+      "nome": "Novo presente",
+      "categoria": "Cozinha",
+      "preco": 100,
+      "qtd": 1,
+      "presenteados": 0,
+      "imagem": "",
+      "emoji": "🎁"
+    },
+    {
+      "id": 123,
       "nome": "Novo presente",
       "categoria": "Cozinha",
       "preco": 100,
