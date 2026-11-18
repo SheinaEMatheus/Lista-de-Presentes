@@ -1,0 +1,190 @@
+{
+  "casal": "Sheina & Matheus",
+  "titulo": "Chá de Casa Nova",
+  "dataEvento": "2026-12-18T17:00:00-03:00",
+  "endereco": "R. Cristiano Strobel, 2055 - Xaxim, Curitiba - PR, 81750-000",
+  "foto": "",
+  "boasVindas": "Que alegria ter você fazendo parte desse momento tão especial! 💗\nObrigada pelo carinho e por celebrar conosco a realização desse sonho. Fique à vontade para conhecer nossa lista de presentes.\nPreparamos tudo com muito amor! 🏡✨",
+  "celebracao": "Estamos celebrando a construção do nosso novo lar e o início de uma linda etapa da nossa história! Será um encontro especial, com brincadeiras, dinâmicas, brindes, boas conversas e momentos de alegria. Queremos compartilhar com pessoas queridas a felicidade de construir uma vida a dois e uma família.\nSua presença fará parte dessa história! 💙🏡",
+  "whatsapp": "",
+  "pix": {
+    "tipo": "celular",
+    "chave": "41997852306",
+    "nome": "SHEINA E MATHEUS",
+    "cidade": "CURITIBA"
+  },
+  "presentes": [
+    {
+      "id": 99,
+      "nome": "Presente de teste (R$ 1,00)",
+      "categoria": "Teste",
+      "preco": 1.0,
+      "qtd": 99,
+      "presenteados": 0,
+      "imagem": "",
+      "emoji": "🧪"
+    },
+    {
+      "id": 1,
+      "nome": "Conjunto Bowls de Inox Electrolux",
+      "categoria": "Cozinha",
+      "preco": 95.99,
+      "qtd": 2,
+      "presenteados": 0,
+      "imagem": "",
+      "emoji": "🥣"
+    },
+    {
+      "id": 2,
+      "nome": "Sanduicheira Electrolux Efficient",
+      "categoria": "Cozinha",
+      "preco": 135.99,
+      "qtd": 1,
+      "presenteados": 0,
+      "imagem": "",
+      "emoji": "🥪"
+    },
+    {
+      "id": 3,
+      "nome": "Conjunto de Facas Tramontina",
+      "categoria": "Cozinha",
+      "preco": 150.99,
+      "qtd": 1,
+      "presenteados": 0,
+      "imagem": "",
+      "emoji": "🔪"
+    },
+    {
+      "id": 4,
+      "nome": "Potes Herméticos",
+      "categoria": "Cozinha",
+      "preco": 85.99,
+      "qtd": 2,
+      "presenteados": 0,
+      "imagem": "",
+      "emoji": "🫙"
+    },
+    {
+      "id": 5,
+      "nome": "Air Fryer",
+      "categoria": "Cozinha",
+      "preco": 449.0,
+      "qtd": 1,
+      "presenteados": 0,
+      "imagem": "",
+      "emoji": "🍟"
+    },
+    {
+      "id": 6,
+      "nome": "Jogo de Panelas Antiaderente",
+      "categoria": "Cozinha",
+      "preco": 589.0,
+      "qtd": 1,
+      "presenteados": 0,
+      "imagem": "",
+      "emoji": "🍳"
+    },
+    {
+      "id": 7,
+      "nome": "Cafeteira Elétrica",
+      "categoria": "Cozinha",
+      "preco": 249.9,
+      "qtd": 1,
+      "presenteados": 0,
+      "imagem": "",
+      "emoji": "☕"
+    },
+    {
+      "id": 8,
+      "nome": "Jogo de Taças de Vinho",
+      "categoria": "Cozinha",
+      "preco": 159.9,
+      "qtd": 1,
+      "presenteados": 0,
+      "imagem": "",
+      "emoji": "🍷"
+    },
+    {
+      "id": 9,
+      "nome": "Manta para Sofá",
+      "categoria": "Casa",
+      "preco": 139.9,
+      "qtd": 1,
+      "presenteados": 0,
+      "imagem": "",
+      "emoji": "🛋️"
+    },
+    {
+      "id": 10,
+      "nome": "Luminária de Chão",
+      "categoria": "Casa",
+      "preco": 329.0,
+      "qtd": 1,
+      "presenteados": 0,
+      "imagem": "",
+      "emoji": "💡"
+    },
+    {
+      "id": 11,
+      "nome": "Jogo de Cama Queen 400 fios",
+      "categoria": "Quarto e Banho",
+      "preco": 349.9,
+      "qtd": 1,
+      "presenteados": 0,
+      "imagem": "",
+      "emoji": "🛏️"
+    },
+    {
+      "id": 12,
+      "nome": "Jogo de Toalhas 5 peças",
+      "categoria": "Quarto e Banho",
+      "preco": 199.9,
+      "qtd": 2,
+      "presenteados": 0,
+      "imagem": "",
+      "emoji": "🛁"
+    },
+    {
+      "id": 13,
+      "nome": "Aspirador Vertical",
+      "categoria": "Casa",
+      "preco": 399.9,
+      "qtd": 1,
+      "presenteados": 0,
+      "imagem": "",
+      "emoji": "🧹"
+    },
+    {
+      "id": 14,
+      "nome": "Cota: Geladeira Frost Free",
+      "categoria": "Cotas",
+      "preco": 200.0,
+      "qtd": 15,
+      "presenteados": 0,
+      "imagem": "",
+      "emoji": "❄️"
+    },
+    {
+      "id": 15,
+      "nome": "Cota: Sofá Novo",
+      "categoria": "Cotas",
+      "preco": 150.0,
+      "qtd": 20,
+      "presenteados": 0,
+      "imagem": "",
+      "emoji": "🛋️"
+    },
+    {
+      "id": 16,
+      "nome": "Primeira pizza na casa nova",
+      "categoria": "Cotas",
+      "preco": 90.0,
+      "qtd": 10,
+      "presenteados": 0,
+      "imagem": "",
+      "emoji": "🍕"
+    }
+  ],
+  "adminLock": null,
+  "planilhaUrl": ""
+}
