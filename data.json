@@ -8,17 +8,17 @@
   "celebracao": "Estamos celebrando a construção do nosso novo lar e o início de uma linda etapa da nossa história! Será um encontro especial, com brincadeiras, dinâmicas, brindes, boas conversas e momentos de alegria. Queremos compartilhar com pessoas queridas a felicidade de construir uma vida a dois e uma família.\nSua presença fará parte dessa história! 💙🏡",
   "whatsapp": "",
   "pix": {
-    "tipo": "celular",
-    "chave": "41997852306",
-    "nome": "SHEINA E MATHEUS",
-    "cidade": "CURITIBA"
+    "tipo": "aleatoria",
+    "chave": "900806d4-be8c-4d7e-8c6d-06f1ce35139b",
+    "nome": "Sheina e Matheus",
+    "cidade": "Curitiba"
   },
   "presentes": [
     {
       "id": 99,
       "nome": "Presente de teste (R$ 1,00)",
       "categoria": "Teste",
-      "preco": 1.0,
+      "preco": 1,
       "qtd": 99,
       "presenteados": 0,
       "imagem": "",
@@ -68,7 +68,7 @@
       "id": 5,
       "nome": "Air Fryer",
       "categoria": "Cozinha",
-      "preco": 449.0,
+      "preco": 449,
       "qtd": 1,
       "presenteados": 0,
       "imagem": "",
@@ -78,7 +78,7 @@
       "id": 6,
       "nome": "Jogo de Panelas Antiaderente",
       "categoria": "Cozinha",
-      "preco": 589.0,
+      "preco": 589,
       "qtd": 1,
       "presenteados": 0,
       "imagem": "",
@@ -118,7 +118,7 @@
       "id": 10,
       "nome": "Luminária de Chão",
       "categoria": "Casa",
-      "preco": 329.0,
+      "preco": 329,
       "qtd": 1,
       "presenteados": 0,
       "imagem": "",
@@ -158,7 +158,7 @@
       "id": 14,
       "nome": "Cota: Geladeira Frost Free",
       "categoria": "Cotas",
-      "preco": 200.0,
+      "preco": 200,
       "qtd": 15,
       "presenteados": 0,
       "imagem": "",
@@ -168,7 +168,7 @@
       "id": 15,
       "nome": "Cota: Sofá Novo",
       "categoria": "Cotas",
-      "preco": 150.0,
+      "preco": 150,
       "qtd": 20,
       "presenteados": 0,
       "imagem": "",
@@ -178,13 +178,18 @@
       "id": 16,
       "nome": "Primeira pizza na casa nova",
       "categoria": "Cotas",
-      "preco": 90.0,
+      "preco": 90,
       "qtd": 10,
       "presenteados": 0,
       "imagem": "",
       "emoji": "🍕"
     }
   ],
-  "adminLock": null,
+  "adminLock": {
+    "v": 1,
+    "salt": "NQxDyl7IZC/+Adq9kjw/Tw==",
+    "iv": "a4hBaiqOSiBQPsgr",
+    "ct": "w9pmNsD4Z9Gmq3VVMjmAUHC3c0rMshLQDIHpoOFuncRMnxvRLryS7zO7rLkBNwY3TTG29MR0nKOy+ia6OSkUBUG9O3dPwBs+4hoGfm1TxBGs3ucCEtMGF6dXJpb582E//n26IDTei2Nm5RpNl54tiR2x2S6YK/bJRHb6dUUQWyz+VWkWVm8U293EPvk5/P7pdNJSBx+1RDmEmnvp1Aq6guhSWIIUhwl2Ox9cjtN0FQtwIreHWEvCM7o4/hE9nQ=="
+  },
   "planilhaUrl": ""
 }
