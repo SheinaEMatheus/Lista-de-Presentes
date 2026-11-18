@@ -293,6 +293,26 @@
       "presenteados": 0,
       "imagem": "images/presente-127-1795025431883.jpg",
       "emoji": "🎁"
+    },
+    {
+      "id": 128,
+      "nome": "Kit Petisqueira 6",
+      "categoria": "Cozinha",
+      "preco": 41.99,
+      "qtd": 1,
+      "presenteados": 0,
+      "imagem": "images/presente-128-1795033636152.jpg",
+      "emoji": "🎁"
+    },
+    {
+      "id": 129,
+      "nome": "Vaso Decorativo Minimalista",
+      "categoria": "Cozinha",
+      "preco": 40.99,
+      "qtd": 1,
+      "presenteados": 0,
+      "imagem": "images/presente-129-1795033689958.jpg",
+      "emoji": "🎁"
     }
   ],
   "adminLock": {
