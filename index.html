@@ -228,6 +228,10 @@ footer.site button{background:none;border:0;color:var(--muted);text-decoration:u
         <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="var(--rose)" stroke-width="1.6"><path d="M12 21s-7-6.2-7-11.5A7 7 0 0 1 19 9.5C19 14.8 12 21 12 21z"/><circle cx="12" cy="9.5" r="2.5"/></svg>
         <div><b>Endereço</b><span id="locAddr"></span></div>
       </div>
+      <div class="row" id="locInfoRow">
+        <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="var(--rose)" stroke-width="1.6"><path d="M4 9h13v5a6 6 0 0 1-6 6h-1a6 6 0 0 1-6-6z"/><path d="M17 11h1.5a2.5 2.5 0 0 1 0 5H16"/><path d="M8 3c0 1.5 1 1.5 1 3M12 3c0 1.5 1 1.5 1 3"/></svg>
+        <div><b id="locInfoTitle"></b><span id="locInfoText"></span></div>
+      </div>
       <div class="route-btns">
         <a class="pill rose" id="routeGoogle" target="_blank" rel="noopener">Como chegar · Google Maps</a>
         <a class="pill" id="routeWaze" target="_blank" rel="noopener">Abrir no Waze</a>
@@ -237,7 +241,26 @@ footer.site button{background:none;border:0;color:var(--muted);text-decoration:u
   </div>
 </div></section>
 
-<!-- CAP 04 -->
+<!-- CAP 04 · PRESENÇA -->
+<section class="chapter" id="rsvp"><div class="wrap">
+  <div class="eyebrow mute">Capítulo 04</div>
+  <h2>Confirme sua <span class="it">presença</span></h2>
+  <div class="txt">Ajude a gente a se organizar! Sua confirmação chega direto no nosso e-mail.</div>
+  <form class="form" id="rsvpForm">
+    <div class="two">
+      <div><label for="rName">Seu nome</label><input class="in" id="rName" required></div>
+      <div><label for="rQty">Nº de pessoas</label><input class="in" id="rQty" type="number" min="1" max="20" value="1" required></div>
+    </div>
+    <div><label for="rPhone">Seu telefone / WhatsApp (opcional)</label><input class="in" id="rPhone" type="tel"></div>
+    <div><label for="rGo">Você vai?</label>
+      <select class="in" id="rGo"><option value="1">Sim, estarei lá! 🎉</option><option value="0">Infelizmente não poderei ir 😢</option></select></div>
+    <div><label for="rMsg">Recado para o casal (opcional)</label><textarea class="in" id="rMsg"></textarea></div>
+    <button class="pill rose" type="submit" id="rBtn" style="justify-content:center">Enviar confirmação</button>
+    <div id="rResult"></div>
+  </form>
+</div></section>
+
+<!-- LISTA DE PRESENTES -->
 <section class="chapter" id="presentes"><div class="wrap">
   <div class="eyebrow">Para celebrar com a gente</div>
   <h2>Lista de presentes</h2>
@@ -258,24 +281,6 @@ footer.site button{background:none;border:0;color:var(--muted);text-decoration:u
 </div></section>
 
 <!-- CAP 05 -->
-<section class="chapter" id="rsvp"><div class="wrap">
-  <div class="eyebrow mute">Capítulo 05</div>
-  <h2>Confirme sua <span class="it">presença</span></h2>
-  <div class="txt">Ajude a gente a se organizar! Sua confirmação chega direto no nosso e-mail.</div>
-  <form class="form" id="rsvpForm">
-    <div class="two">
-      <div><label for="rName">Seu nome</label><input class="in" id="rName" required></div>
-      <div><label for="rQty">Nº de pessoas</label><input class="in" id="rQty" type="number" min="1" max="20" value="1" required></div>
-    </div>
-    <div><label for="rPhone">Seu telefone / WhatsApp (opcional)</label><input class="in" id="rPhone" type="tel"></div>
-    <div><label for="rGo">Você vai?</label>
-      <select class="in" id="rGo"><option value="1">Sim, estarei lá! 🎉</option><option value="0">Infelizmente não poderei ir 😢</option></select></div>
-    <div><label for="rMsg">Recado para o casal (opcional)</label><textarea class="in" id="rMsg"></textarea></div>
-    <button class="pill rose" type="submit" id="rBtn" style="justify-content:center">Enviar confirmação</button>
-    <div id="rResult"></div>
-  </form>
-</div></section>
-
 <footer class="site">
   <div class="serif" style="font-size:1.6rem;color:var(--text)" id="footName"></div>
   <div>Feito com 💛 para o nosso chá de casa nova</div>
@@ -374,6 +379,8 @@ footer.site button{background:none;border:0;color:var(--muted);text-decoration:u
         <div><label for="aTitulo">Título</label><input class="in" id="aTitulo"></div>
         <div><label for="aData">Data e hora</label><input class="in" id="aData" type="datetime-local"></div>
         <div style="grid-column:1/-1"><label for="aEnd">Endereço</label><input class="in" id="aEnd"></div>
+        <div><label for="aInfoT">Informação extra no Local (título)</label><input class="in" id="aInfoT" placeholder="ex.: Café Colonial"></div>
+        <div><label for="aInfoX">Informação extra no Local (texto)</label><input class="in" id="aInfoX" placeholder="ex.: Por adesão: R$ 75,00 por pessoa"></div>
         <div style="grid-column:1/-1"><label for="aPlan">Endereço da planilha de confirmações (URL do Google Apps Script, termina em /exec)</label><input class="in" id="aPlan" placeholder="https://script.google.com/macros/s/…/exec"></div>
         <div><label for="aWhats">WhatsApp do casal (opcional, com DDI e DDD)</label><input class="in" id="aWhats" placeholder="5541999999999"></div>
         <div><label for="aFoto">Foto da capa (caminho ou link)</label><input class="in" id="aFoto" placeholder="foto.jpg"></div>
@@ -613,7 +620,9 @@ footer.site button{background:none;border:0;color:var(--muted);text-decoration:u
   }
  ],
  "adminLock": null,
- "planilhaUrl": ""
+ "planilhaUrl": "",
+ "infoTitulo": "Café Colonial",
+ "infoTexto": "Por adesão: R$ 75,00 por pessoa"
 }</script>
 <script src="https://cdn.jsdelivr.net/npm/qrcode-generator@1.4.4/qrcode.js"></script>
 <script>
@@ -645,6 +654,8 @@ function renderInfo(){
   $("heroTitle").innerHTML=esc(D.titulo)+"<br>"+(names.length>1?esc(names[0].trim())+' <span class="amp">&amp;</span> '+esc(names.slice(1).join("&").trim()):esc(D.casal));
   $("heroAddr").textContent=D.endereco; $("locAddr").textContent=D.endereco;
   $("locDate").textContent=wd.charAt(0).toUpperCase()+wd.slice(1)+", "+dm; $("locTime").textContent="A partir das "+hm;
+  var it=(D.infoTitulo===undefined?"Café Colonial":D.infoTitulo), ix=(D.infoTexto===undefined?"Por adesão: R$ 75,00 por pessoa":D.infoTexto);
+  $("locInfoTitle").textContent=it;$("locInfoText").textContent=ix;$("locInfoRow").style.display=(it||ix)?"":"none";
   $("txtWelcome").textContent=D.boasVindas; $("txtCelebration").textContent=D.celebracao;
   $("footName").textContent=D.casal;
   $("avatar").src=D.foto?D.foto:EMBED_FOTO;
@@ -838,14 +849,14 @@ $("admLogout").addEventListener("click",function(){GH.token="";ADMPW="";closeAdm
 
 function toLocalInput(iso){var d=new Date(iso);var p=function(n){return ("0"+n).slice(-2);};var s=new Date(d.getTime()-3*36e5);return s.getUTCFullYear()+"-"+p(s.getUTCMonth()+1)+"-"+p(s.getUTCDate())+"T"+p(s.getUTCHours())+":"+p(s.getUTCMinutes());}
 function fillAdmin(){
-  $("aCasal").value=D.casal||"";$("aTitulo").value=D.titulo||"";$("aData").value=toLocalInput(D.dataEvento);$("aEnd").value=D.endereco||"";
+  $("aCasal").value=D.casal||"";$("aTitulo").value=D.titulo||"";$("aData").value=toLocalInput(D.dataEvento);$("aEnd").value=D.endereco||"";$("aInfoT").value=(D.infoTitulo===undefined?"Café Colonial":D.infoTitulo);$("aInfoX").value=(D.infoTexto===undefined?"Por adesão: R$ 75,00 por pessoa":D.infoTexto);
   $("aWhats").value=D.whatsapp||"";$("aPlan").value=D.planilhaUrl||"";$("aFoto").value=D.foto||"";$("aWelcome").value=D.boasVindas||"";$("aCeleb").value=D.celebracao||"";
   D.pix=D.pix||{};$("aPixTipo").value=D.pix.tipo||"celular";$("aPixKey").value=D.pix.chave||"";$("aPixName").value=D.pix.nome||"";$("aPixCity").value=D.pix.cidade||"";
   renderGTable();
 }
 function collectAdmin(){
   D.casal=$("aCasal").value.trim();D.titulo=$("aTitulo").value.trim();if($("aData").value)D.dataEvento=$("aData").value+":00-03:00";
-  D.endereco=$("aEnd").value.trim();D.whatsapp=$("aWhats").value.replace(/\D/g,"");D.planilhaUrl=$("aPlan").value.trim();D.foto=$("aFoto").value.trim();
+  D.endereco=$("aEnd").value.trim();D.infoTitulo=$("aInfoT").value.trim();D.infoTexto=$("aInfoX").value.trim();D.whatsapp=$("aWhats").value.replace(/\D/g,"");D.planilhaUrl=$("aPlan").value.trim();D.foto=$("aFoto").value.trim();
   D.boasVindas=$("aWelcome").value;D.celebracao=$("aCeleb").value;
   D.pix={tipo:$("aPixTipo").value,chave:$("aPixKey").value.trim(),nome:$("aPixName").value.trim(),cidade:$("aPixCity").value.trim()};
 }
@@ -889,7 +900,7 @@ $("admSave").addEventListener("click",function(){collectAdmin();renderAll();
   toast("Salvando…");putData("Atualiza site do chá").then(function(){toast("Salvo ✔ O site atualiza em 1–2 minutos");}).catch(function(e){toast("Erro ao salvar: "+e.message);});
 });
 $("admExport").addEventListener("click",function(){collectAdmin();var a=document.createElement("a");a.href="data:application/json;charset=utf-8,"+encodeURIComponent(JSON.stringify(D,null,2));a.download="data.json";document.body.appendChild(a);a.click();a.remove();});
-["aCasal","aTitulo","aData","aEnd","aWhats","aPlan","aFoto","aWelcome","aCeleb","aPixTipo","aPixKey","aPixName","aPixCity"].forEach(function(id){$(id).addEventListener("input",function(){collectAdmin();renderInfo();});});
+["aCasal","aTitulo","aData","aEnd","aInfoT","aInfoX","aWhats","aPlan","aFoto","aWelcome","aCeleb","aPixTipo","aPixKey","aPixName","aPixCity"].forEach(function(id){$(id).addEventListener("input",function(){collectAdmin();renderInfo();});});
 function openAdmin(){
   if(!$("gOwner").value&&/github\.io$/.test(location.hostname)){$("gOwner").value=location.hostname.split(".")[0];$("gRepo").value=location.pathname.split("/")[1]||"";}
   fillAdmin();var hasLock=!!(D.adminLock&&D.adminLock.ct);
