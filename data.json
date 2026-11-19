@@ -378,7 +378,7 @@
       "id": 136,
       "nome": "Cafeteira Elétrica Electrolux",
       "categoria": "Cozinha",
-      "preco": 170,
+      "preco": 160,
       "qtd": 1,
       "presenteados": 0,
       "imagem": "images/presente-136-1795055659562.jpg",
@@ -575,16 +575,6 @@
       "emoji": "🎁"
     },
     {
-      "id": 156,
-      "nome": "Kit Churrasco",
-      "categoria": "Cozinha",
-      "preco": 115,
-      "qtd": 1,
-      "presenteados": 0,
-      "imagem": "images/presente-156-1795056261165.jpg",
-      "emoji": "🎁"
-    },
-    {
       "id": 157,
       "nome": "Conjunto Assadeiras",
       "categoria": "Cozinha",
@@ -632,16 +622,6 @@
       "qtd": 1,
       "presenteados": 0,
       "imagem": "images/presente-161-1795056352106.jpg",
-      "emoji": "🎁"
-    },
-    {
-      "id": 162,
-      "nome": "Kit Tupperware",
-      "categoria": "Cozinha",
-      "preco": 170,
-      "qtd": 1,
-      "presenteados": 0,
-      "imagem": "images/presente-162-1795056354615.jpg",
       "emoji": "🎁"
     },
     {
@@ -795,20 +775,10 @@
       "emoji": "🎁"
     },
     {
-      "id": 178,
-      "nome": "Porta Utensílios Giratório Inox",
-      "categoria": "Cozinha",
-      "preco": 78,
-      "qtd": 1,
-      "presenteados": 0,
-      "imagem": "images/presente-178-1795056825033.jpg",
-      "emoji": "🎁"
-    },
-    {
       "id": 179,
       "nome": "Fruteira de Chão",
       "categoria": "Cozinha",
-      "preco": 131,
+      "preco": 130,
       "qtd": 1,
       "presenteados": 0,
       "imagem": "images/presente-179-1795056828024.jpg",
