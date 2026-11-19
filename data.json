@@ -505,16 +505,6 @@
       "emoji": "🎁"
     },
     {
-      "id": 149,
-      "nome": "Tábua de Corte",
-      "categoria": "Cozinha",
-      "preco": 90,
-      "qtd": 1,
-      "presenteados": 0,
-      "imagem": "images/presente-149-1795056114673.jpg",
-      "emoji": "🎁"
-    },
-    {
       "id": 150,
       "nome": "Descanso de Travessas",
       "categoria": "Cozinha",
