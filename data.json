@@ -758,7 +758,7 @@
       "id": 176,
       "nome": "Kit Vidro Aromatizador Quartzo",
       "categoria": "Casa",
-      "preco": 198,
+      "preco": 190,
       "qtd": 1,
       "presenteados": 0,
       "imagem": "images/presente-176-1795056812869.jpg",
@@ -766,10 +766,10 @@
     },
     {
       "id": 177,
-      "nome": "Kit Sacos Organizadores",
+      "nome": "Kit 4 Sacos Organizadores",
       "categoria": "Casa",
-      "preco": 75,
-      "qtd": 1,
+      "preco": 49,
+      "qtd": 2,
       "presenteados": 0,
       "imagem": "images/presente-177-1795056821378.jpg",
       "emoji": "🎁"
