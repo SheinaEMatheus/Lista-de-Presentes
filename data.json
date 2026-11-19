@@ -197,7 +197,7 @@
     {
       "id": 118,
       "nome": "Organizador De Panelas E Tampas Ajustável",
-      "categoria": "Cozinha",
+      "categoria": "Cotas",
       "preco": 69,
       "qtd": 2,
       "presenteados": 0,
@@ -207,7 +207,7 @@
     {
       "id": 119,
       "nome": "Kit 3 Organizador de Cozinha",
-      "categoria": "Cozinha",
+      "categoria": "Cotas",
       "preco": 48,
       "qtd": 3,
       "presenteados": 0,
@@ -387,7 +387,7 @@
     {
       "id": 137,
       "nome": "Purificador Electrolux Eletrônico",
-      "categoria": "Cozinha",
+      "categoria": "Cotas",
       "preco": 115,
       "qtd": 5,
       "presenteados": 0,
@@ -397,7 +397,7 @@
     {
       "id": 138,
       "nome": "Jogo de Panelas Rochedo",
-      "categoria": "Cozinha",
+      "categoria": "Cotas",
       "preco": 225,
       "qtd": 2,
       "presenteados": 0,
@@ -657,7 +657,7 @@
     {
       "id": 164,
       "nome": "Tapete Boho Sala",
-      "categoria": "Cozinha",
+      "categoria": "Casa",
       "preco": 170,
       "qtd": 1,
       "presenteados": 0,
@@ -677,7 +677,7 @@
     {
       "id": 166,
       "nome": "Puff Mesinha 2 em 1",
-      "categoria": "Cozinha",
+      "categoria": "Casa",
       "preco": 173,
       "qtd": 1,
       "presenteados": 0,
@@ -687,7 +687,7 @@
     {
       "id": 167,
       "nome": "Kit 2 Vasos Para Plantas",
-      "categoria": "Cozinha",
+      "categoria": "Casa",
       "preco": 92,
       "qtd": 1,
       "presenteados": 0,
@@ -697,7 +697,7 @@
     {
       "id": 168,
       "nome": "Kit Vaso de Vidro Decorativo",
-      "categoria": "Cozinha",
+      "categoria": "Casa",
       "preco": 47,
       "qtd": 1,
       "presenteados": 0,
@@ -737,7 +737,7 @@
     {
       "id": 172,
       "nome": "Tapetes e Passadeira de Cozinha Artesanal",
-      "categoria": "Cozinha",
+      "categoria": "Casa",
       "preco": 146,
       "qtd": 1,
       "presenteados": 0,
@@ -747,7 +747,7 @@
     {
       "id": 173,
       "nome": "Tapete Passadeira 100% Algodão",
-      "categoria": "Cozinha",
+      "categoria": "Casa",
       "preco": 68,
       "qtd": 1,
       "presenteados": 0,
@@ -757,7 +757,7 @@
     {
       "id": 174,
       "nome": "Kit 2 Quadro Decorativos",
-      "categoria": "Cozinha",
+      "categoria": "Casa",
       "preco": 177,
       "qtd": 1,
       "presenteados": 0,
@@ -767,7 +767,7 @@
     {
       "id": 175,
       "nome": "Quadro Decorativo Grande",
-      "categoria": "Cozinha",
+      "categoria": "Casa",
       "preco": 200,
       "qtd": 1,
       "presenteados": 0,
@@ -777,7 +777,7 @@
     {
       "id": 176,
       "nome": "Kit Vidro Aromatizador Quartzo",
-      "categoria": "Cozinha",
+      "categoria": "Casa",
       "preco": 198,
       "qtd": 1,
       "presenteados": 0,
@@ -787,7 +787,7 @@
     {
       "id": 177,
       "nome": "Kit Sacos Organizadores",
-      "categoria": "Cozinha",
+      "categoria": "Casa",
       "preco": 75,
       "qtd": 1,
       "presenteados": 0,
