@@ -239,7 +239,7 @@
       "nome": "Robô Aspirador Electrolux 4 em 1",
       "categoria": "Cotas",
       "preco": 150,
-      "qtd": 8,
+      "qtd": 9,
       "presenteados": 0,
       "imagem": "images/presente-122-1795024580556.jpg",
       "emoji": "🎁"
@@ -292,16 +292,6 @@
       "qtd": 1,
       "presenteados": 0,
       "imagem": "images/presente-127-1795025431883.jpg",
-      "emoji": "🎁"
-    },
-    {
-      "id": 128,
-      "nome": "Kit Petisqueira 6",
-      "categoria": "Cozinha",
-      "preco": 45,
-      "qtd": 1,
-      "presenteados": 0,
-      "imagem": "images/presente-128-1795033636152.jpg",
       "emoji": "🎁"
     },
     {
