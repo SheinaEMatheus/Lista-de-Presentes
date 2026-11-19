@@ -313,6 +313,16 @@
       "presenteados": 0,
       "imagem": "images/presente-129-1795033689958.jpg",
       "emoji": "🎁"
+    },
+    {
+      "id": 130,
+      "nome": "Teste",
+      "categoria": "Cozinha",
+      "preco": 1,
+      "qtd": 1,
+      "presenteados": 0,
+      "imagem": "",
+      "emoji": "🎁"
     }
   ],
   "adminLock": {
