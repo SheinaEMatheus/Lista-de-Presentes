@@ -298,7 +298,7 @@
       "id": 128,
       "nome": "Kit Petisqueira 6",
       "categoria": "Cozinha",
-      "preco": 41.99,
+      "preco": 44,
       "qtd": 1,
       "presenteados": 0,
       "imagem": "images/presente-128-1795033636152.jpg",
@@ -308,7 +308,7 @@
       "id": 129,
       "nome": "Vaso Decorativo Minimalista",
       "categoria": "Cozinha",
-      "preco": 40.99,
+      "preco": 44,
       "qtd": 1,
       "presenteados": 0,
       "imagem": "images/presente-129-1795033689958.jpg",
@@ -316,12 +316,512 @@
     },
     {
       "id": 130,
-      "nome": "Teste",
+      "nome": "Conjunto Bowls de Inox Electrolux",
       "categoria": "Cozinha",
-      "preco": 1,
+      "preco": 98,
       "qtd": 1,
       "presenteados": 0,
-      "imagem": "",
+      "imagem": "images/presente-130-1795055517968.jpg",
+      "emoji": "🎁"
+    },
+    {
+      "id": 131,
+      "nome": "Sanduichera Electrolux Efficient",
+      "categoria": "Cozinha",
+      "preco": 140,
+      "qtd": 1,
+      "presenteados": 0,
+      "imagem": "images/presente-131-1795055538530.jpg",
+      "emoji": "🎁"
+    },
+    {
+      "id": 132,
+      "nome": "Conjunto de Facas Tramontina",
+      "categoria": "Cozinha",
+      "preco": 150,
+      "qtd": 1,
+      "presenteados": 0,
+      "imagem": "images/presente-132-1795055570171.jpg",
+      "emoji": "🎁"
+    },
+    {
+      "id": 133,
+      "nome": "Potes Herméticos",
+      "categoria": "Cozinha",
+      "preco": 90,
+      "qtd": 1,
+      "presenteados": 0,
+      "imagem": "images/presente-133-1795055587898.jpg",
+      "emoji": "🎁"
+    },
+    {
+      "id": 134,
+      "nome": "Refratários com Tampa de Bambu",
+      "categoria": "Cozinha",
+      "preco": 115,
+      "qtd": 1,
+      "presenteados": 0,
+      "imagem": "images/presente-134-1795055613006.jpg",
+      "emoji": "🎁"
+    },
+    {
+      "id": 135,
+      "nome": "Conjunto de Utensílios",
+      "categoria": "Cozinha",
+      "preco": 80,
+      "qtd": 1,
+      "presenteados": 0,
+      "imagem": "images/presente-135-1795055636001.jpg",
+      "emoji": "🎁"
+    },
+    {
+      "id": 136,
+      "nome": "Cafeteira Elétrica Electrolux",
+      "categoria": "Cozinha",
+      "preco": 170,
+      "qtd": 1,
+      "presenteados": 0,
+      "imagem": "images/presente-136-1795055659562.jpg",
+      "emoji": "🎁"
+    },
+    {
+      "id": 137,
+      "nome": "Purificador Electrolux Eletrônico",
+      "categoria": "Cozinha",
+      "preco": 115,
+      "qtd": 5,
+      "presenteados": 0,
+      "imagem": "images/presente-137-1795055691645.jpg",
+      "emoji": "🎁"
+    },
+    {
+      "id": 138,
+      "nome": "Jogo de Panelas Rochedo",
+      "categoria": "Cozinha",
+      "preco": 225,
+      "qtd": 2,
+      "presenteados": 0,
+      "imagem": "images/presente-138-1795055741455.jpg",
+      "emoji": "🎁"
+    },
+    {
+      "id": 139,
+      "nome": "Jogo de Frigideiras Tramontina",
+      "categoria": "Cozinha",
+      "preco": 115,
+      "qtd": 1,
+      "presenteados": 0,
+      "imagem": "images/presente-139-1795055771041.jpg",
+      "emoji": "🎁"
+    },
+    {
+      "id": 140,
+      "nome": "Jogo Assadeiras Tramontina",
+      "categoria": "Cozinha",
+      "preco": 190,
+      "qtd": 1,
+      "presenteados": 0,
+      "imagem": "images/presente-140-1795055809978.jpg",
+      "emoji": "🎁"
+    },
+    {
+      "id": 141,
+      "nome": "Conjunto de Assadeiras",
+      "categoria": "Cozinha",
+      "preco": 150,
+      "qtd": 1,
+      "presenteados": 0,
+      "imagem": "images/presente-141-1795055813313.jpg",
+      "emoji": "🎁"
+    },
+    {
+      "id": 142,
+      "nome": "Jogo de Cama",
+      "categoria": "Quarto e Banheiro",
+      "preco": 225,
+      "qtd": 1,
+      "presenteados": 0,
+      "imagem": "images/presente-142-1795055874099.jpg",
+      "emoji": "🎁"
+    },
+    {
+      "id": 143,
+      "nome": "Jogo de Cama",
+      "categoria": "Quarto e Banheiro",
+      "preco": 300,
+      "qtd": 1,
+      "presenteados": 0,
+      "imagem": "images/presente-143-1795055876854.jpg",
+      "emoji": "🎁"
+    },
+    {
+      "id": 144,
+      "nome": "Kit Cobre Leito Queen",
+      "categoria": "Quarto e Banheiro",
+      "preco": 170,
+      "qtd": 1,
+      "presenteados": 0,
+      "imagem": "images/presente-144-1795055879503.jpg",
+      "emoji": "🎁"
+    },
+    {
+      "id": 145,
+      "nome": "Jogo de Toalhas Buddemeyer",
+      "categoria": "Quarto e Banheiro",
+      "preco": 150,
+      "qtd": 1,
+      "presenteados": 0,
+      "imagem": "images/presente-145-1795055882642.jpg",
+      "emoji": "🎁"
+    },
+    {
+      "id": 146,
+      "nome": "Kit 2 Toalhas Banhão",
+      "categoria": "Quarto e Banheiro",
+      "preco": 200,
+      "qtd": 1,
+      "presenteados": 0,
+      "imagem": "images/presente-146-1795056040054.jpg",
+      "emoji": "🎁"
+    },
+    {
+      "id": 147,
+      "nome": "Aparelho de Jantar 30 Peças",
+      "categoria": "Cozinha",
+      "preco": 130,
+      "qtd": 5,
+      "presenteados": 0,
+      "imagem": "images/presente-147-1795056045498.jpg",
+      "emoji": "🎁"
+    },
+    {
+      "id": 148,
+      "nome": "Kit Copos e Jarra",
+      "categoria": "Cozinha",
+      "preco": 130,
+      "qtd": 1,
+      "presenteados": 0,
+      "imagem": "images/presente-148-1795056049658.jpg",
+      "emoji": "🎁"
+    },
+    {
+      "id": 149,
+      "nome": "Tábua de Corte",
+      "categoria": "Cozinha",
+      "preco": 90,
+      "qtd": 1,
+      "presenteados": 0,
+      "imagem": "images/presente-149-1795056114673.jpg",
+      "emoji": "🎁"
+    },
+    {
+      "id": 150,
+      "nome": "Descanso de Travessas",
+      "categoria": "Cozinha",
+      "preco": 65,
+      "qtd": 1,
+      "presenteados": 0,
+      "imagem": "images/presente-150-1795056119053.jpg",
+      "emoji": "🎁"
+    },
+    {
+      "id": 151,
+      "nome": "Organizador de Panelas",
+      "categoria": "Cozinha",
+      "preco": 60,
+      "qtd": 2,
+      "presenteados": 0,
+      "imagem": "images/presente-151-1795056123491.jpg",
+      "emoji": "🎁"
+    },
+    {
+      "id": 152,
+      "nome": "Manta Queen",
+      "categoria": "Quarto e Banheiro",
+      "preco": 130,
+      "qtd": 1,
+      "presenteados": 0,
+      "imagem": "images/presente-152-1795056188679.jpg",
+      "emoji": "🎁"
+    },
+    {
+      "id": 153,
+      "nome": "Manta Queen 350g",
+      "categoria": "Quarto e Banheiro",
+      "preco": 130,
+      "qtd": 1,
+      "presenteados": 0,
+      "imagem": "images/presente-153-1795056191156.jpg",
+      "emoji": "🎁"
+    },
+    {
+      "id": 154,
+      "nome": "Edredom Queen Duo",
+      "categoria": "Quarto e Banheiro",
+      "preco": 320,
+      "qtd": 1,
+      "presenteados": 0,
+      "imagem": "images/presente-154-1795056195279.jpg",
+      "emoji": "🎁"
+    },
+    {
+      "id": 155,
+      "nome": "Kit Pano de Prato",
+      "categoria": "Cozinha",
+      "preco": 70,
+      "qtd": 1,
+      "presenteados": 0,
+      "imagem": "images/presente-155-1795056197690.jpg",
+      "emoji": "🎁"
+    },
+    {
+      "id": 156,
+      "nome": "Kit Churrasco",
+      "categoria": "Cozinha",
+      "preco": 115,
+      "qtd": 1,
+      "presenteados": 0,
+      "imagem": "images/presente-156-1795056261165.jpg",
+      "emoji": "🎁"
+    },
+    {
+      "id": 157,
+      "nome": "Conjunto Assadeiras",
+      "categoria": "Cozinha",
+      "preco": 72,
+      "qtd": 1,
+      "presenteados": 0,
+      "imagem": "images/presente-157-1795056265407.jpg",
+      "emoji": "🎁"
+    },
+    {
+      "id": 158,
+      "nome": "Kit Pegador",
+      "categoria": "Cozinha",
+      "preco": 35,
+      "qtd": 1,
+      "presenteados": 0,
+      "imagem": "images/presente-158-1795056269849.jpg",
+      "emoji": "🎁"
+    },
+    {
+      "id": 159,
+      "nome": "Kit Pizza",
+      "categoria": "Cozinha",
+      "preco": 150,
+      "qtd": 1,
+      "presenteados": 0,
+      "imagem": "images/presente-159-1795056342597.jpg",
+      "emoji": "🎁"
+    },
+    {
+      "id": 160,
+      "nome": "Taças de Sobremesa",
+      "categoria": "Cozinha",
+      "preco": 82,
+      "qtd": 1,
+      "presenteados": 0,
+      "imagem": "images/presente-160-1795056348258.jpg",
+      "emoji": "🎁"
+    },
+    {
+      "id": 161,
+      "nome": "Forma de Bolo N°24",
+      "categoria": "Cozinha",
+      "preco": 35,
+      "qtd": 1,
+      "presenteados": 0,
+      "imagem": "images/presente-161-1795056352106.jpg",
+      "emoji": "🎁"
+    },
+    {
+      "id": 162,
+      "nome": "Kit Tupperware",
+      "categoria": "Cozinha",
+      "preco": 170,
+      "qtd": 1,
+      "presenteados": 0,
+      "imagem": "images/presente-162-1795056354615.jpg",
+      "emoji": "🎁"
+    },
+    {
+      "id": 163,
+      "nome": "Kit Vidro 10 Potes",
+      "categoria": "Cozinha",
+      "preco": 100,
+      "qtd": 1,
+      "presenteados": 0,
+      "imagem": "images/presente-163-1795056428274.jpg",
+      "emoji": "🎁"
+    },
+    {
+      "id": 164,
+      "nome": "Tapete Boho Sala",
+      "categoria": "Cozinha",
+      "preco": 170,
+      "qtd": 1,
+      "presenteados": 0,
+      "imagem": "images/presente-164-1795056438030.jpg",
+      "emoji": "🎁"
+    },
+    {
+      "id": 165,
+      "nome": "Jogo de Talheres Churrasco Tramontina",
+      "categoria": "Cozinha",
+      "preco": 135,
+      "qtd": 1,
+      "presenteados": 0,
+      "imagem": "images/presente-165-1795056452076.jpg",
+      "emoji": "🎁"
+    },
+    {
+      "id": 166,
+      "nome": "Puff Mesinha 2 em 1",
+      "categoria": "Cozinha",
+      "preco": 173,
+      "qtd": 1,
+      "presenteados": 0,
+      "imagem": "images/presente-166-1795056461839.jpg",
+      "emoji": "🎁"
+    },
+    {
+      "id": 167,
+      "nome": "Kit 2 Vasos Para Plantas",
+      "categoria": "Cozinha",
+      "preco": 92,
+      "qtd": 1,
+      "presenteados": 0,
+      "imagem": "images/presente-167-1795056549279.jpg",
+      "emoji": "🎁"
+    },
+    {
+      "id": 168,
+      "nome": "Kit Vaso de Vidro Decorativo",
+      "categoria": "Cozinha",
+      "preco": 47,
+      "qtd": 1,
+      "presenteados": 0,
+      "imagem": "images/presente-168-1795056559443.jpg",
+      "emoji": "🎁"
+    },
+    {
+      "id": 169,
+      "nome": "Liquidificador Electrolux",
+      "categoria": "Cozinha",
+      "preco": 170,
+      "qtd": 1,
+      "presenteados": 0,
+      "imagem": "images/presente-169-1795056562312.jpg",
+      "emoji": "🎁"
+    },
+    {
+      "id": 170,
+      "nome": "Mixer Misturador Multiuso Electrolux 3 em 1",
+      "categoria": "Cozinha",
+      "preco": 182,
+      "qtd": 1,
+      "presenteados": 0,
+      "imagem": "images/presente-170-1795056568947.jpg",
+      "emoji": "🎁"
+    },
+    {
+      "id": 171,
+      "nome": "Kit 6 Peças Escorredores",
+      "categoria": "Cozinha",
+      "preco": 69,
+      "qtd": 1,
+      "presenteados": 0,
+      "imagem": "images/presente-171-1795056684956.jpg",
+      "emoji": "🎁"
+    },
+    {
+      "id": 172,
+      "nome": "Tapetes e Passadeira de Cozinha Artesanal",
+      "categoria": "Cozinha",
+      "preco": 146,
+      "qtd": 1,
+      "presenteados": 0,
+      "imagem": "images/presente-172-1795056688290.jpg",
+      "emoji": "🎁"
+    },
+    {
+      "id": 173,
+      "nome": "Tapete Passadeira 100% Algodão",
+      "categoria": "Cozinha",
+      "preco": 68,
+      "qtd": 1,
+      "presenteados": 0,
+      "imagem": "images/presente-173-1795056692987.jpg",
+      "emoji": "🎁"
+    },
+    {
+      "id": 174,
+      "nome": "Kit 2 Quadro Decorativos",
+      "categoria": "Cozinha",
+      "preco": 177,
+      "qtd": 1,
+      "presenteados": 0,
+      "imagem": "images/presente-174-1795056697021.jpg",
+      "emoji": "🎁"
+    },
+    {
+      "id": 175,
+      "nome": "Quadro Decorativo Grande",
+      "categoria": "Cozinha",
+      "preco": 200,
+      "qtd": 1,
+      "presenteados": 0,
+      "imagem": "images/presente-175-1795056809685.jpg",
+      "emoji": "🎁"
+    },
+    {
+      "id": 176,
+      "nome": "Kit Vidro Aromatizador Quartzo",
+      "categoria": "Cozinha",
+      "preco": 198,
+      "qtd": 1,
+      "presenteados": 0,
+      "imagem": "images/presente-176-1795056812869.jpg",
+      "emoji": "🎁"
+    },
+    {
+      "id": 177,
+      "nome": "Kit Sacos Organizadores",
+      "categoria": "Cozinha",
+      "preco": 75,
+      "qtd": 1,
+      "presenteados": 0,
+      "imagem": "images/presente-177-1795056821378.jpg",
+      "emoji": "🎁"
+    },
+    {
+      "id": 178,
+      "nome": "Porta Utensílios Giratório Inox",
+      "categoria": "Cozinha",
+      "preco": 78,
+      "qtd": 1,
+      "presenteados": 0,
+      "imagem": "images/presente-178-1795056825033.jpg",
+      "emoji": "🎁"
+    },
+    {
+      "id": 179,
+      "nome": "Fruteira de Chão",
+      "categoria": "Cozinha",
+      "preco": 131,
+      "qtd": 1,
+      "presenteados": 0,
+      "imagem": "images/presente-179-1795056828024.jpg",
+      "emoji": "🎁"
+    },
+    {
+      "id": 180,
+      "nome": "Kit 6 Anéis Porta Guardanapos",
+      "categoria": "Cozinha",
+      "preco": 42,
+      "qtd": 1,
+      "presenteados": 0,
+      "imagem": "images/presente-180-1795056833292.jpg",
       "emoji": "🎁"
     }
   ],
