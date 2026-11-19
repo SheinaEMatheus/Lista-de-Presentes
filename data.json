@@ -68,7 +68,7 @@
       "id": 105,
       "nome": "Aparelho Jantar Alleanza 30 pçs",
       "categoria": "Cotas",
-      "preco": 100,
+      "preco": 115,
       "qtd": 6,
       "presenteados": 0,
       "imagem": "images/presente-105-1795021551003.jpg",
@@ -156,7 +156,7 @@
     },
     {
       "id": 114,
-      "nome": "2 Peças Tábua De CortarNovo presente",
+      "nome": "2 Peças Tábua De Cortar",
       "categoria": "Cozinha",
       "preco": 59,
       "qtd": 1,
@@ -356,7 +356,7 @@
     },
     {
       "id": 134,
-      "nome": "Refratários com Tampa de Bambu",
+      "nome": "Refratários  Grandes com Tampa de Bambu",
       "categoria": "Cozinha",
       "preco": 115,
       "qtd": 1,
@@ -626,10 +626,10 @@
     },
     {
       "id": 163,
-      "nome": "Kit Vidro 10 Potes",
+      "nome": "Kit Vidro 5 Potes",
       "categoria": "Cozinha",
-      "preco": 100,
-      "qtd": 1,
+      "preco": 60,
+      "qtd": 2,
       "presenteados": 0,
       "imagem": "images/presente-163-1795056428274.jpg",
       "emoji": "🎁"
