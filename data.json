@@ -385,16 +385,6 @@
       "emoji": "🎁"
     },
     {
-      "id": 141,
-      "nome": "Conjunto de Assadeiras",
-      "categoria": "Cozinha",
-      "preco": 150,
-      "qtd": 1,
-      "presenteados": 0,
-      "imagem": "images/presente-141-1795055813313.jpg",
-      "emoji": "🎁"
-    },
-    {
       "id": 142,
       "nome": "Jogo de Cama",
       "categoria": "Quarto e Banho",
@@ -636,7 +626,7 @@
     },
     {
       "id": 177,
-      "nome": "Kit 4 Sacos Organizadores",
+      "nome": "Kit  Sacos Organizadores",
       "categoria": "Casa",
       "preco": 49,
       "qtd": 2,
@@ -656,7 +646,7 @@
     },
     {
       "id": 180,
-      "nome": "Kit 6 Anéis Porta Guardanapos",
+      "nome": "Kit Anéis Porta Guardanapos",
       "categoria": "Cozinha",
       "preco": 45,
       "qtd": 1,
