@@ -16,7 +16,7 @@
   "presentes": [
     {
       "id": 100,
-      "nome": "Kit Cobre Leito Queen",
+      "nome": "Cobre Leito Queen",
       "categoria": "Quarto e Banho",
       "preco": 190,
       "qtd": 1,
@@ -26,7 +26,7 @@
     },
     {
       "id": 102,
-      "nome": "Kit Jogo De Toalhas Buddemeyer",
+      "nome": "Jogo De Toalhas Buddemeyer",
       "categoria": "Quarto e Banho",
       "preco": 175,
       "qtd": 1,
@@ -36,7 +36,7 @@
     },
     {
       "id": 104,
-      "nome": "Jogo De Toalhas 4 Pçs Karsten",
+      "nome": "Jogo De Toalhas Karsten",
       "categoria": "Quarto e Banho",
       "preco": 162,
       "qtd": 1,
@@ -166,7 +166,7 @@
     },
     {
       "id": 117,
-      "nome": "4 Descanso Suporte De Panela Travessa Folha",
+      "nome": "Descanso Suporte De Panela Travessa Folha",
       "categoria": "Cozinha",
       "preco": 45,
       "qtd": 2,
