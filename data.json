@@ -458,7 +458,7 @@
       "id": 159,
       "nome": "Kit Pizza",
       "categoria": "Cozinha",
-      "preco": 150,
+      "preco": 120,
       "qtd": 1,
       "presenteados": 0,
       "imagem": "images/presente-159-1795056342597.jpg",
@@ -556,7 +556,7 @@
     },
     {
       "id": 170,
-      "nome": "Mixer Misturador Multiuso Electrolux 3 em 1",
+      "nome": "Mixer Multiuso Electrolux ",
       "categoria": "Cozinha",
       "preco": 182,
       "qtd": 1,
@@ -566,7 +566,7 @@
     },
     {
       "id": 171,
-      "nome": "Kit 6 Peças Escorredores",
+      "nome": "Kit Peças Escorredores",
       "categoria": "Cozinha",
       "preco": 69,
       "qtd": 1,
@@ -631,7 +631,7 @@
       "preco": 49,
       "qtd": 2,
       "presenteados": 0,
-      "imagem": "images/presente-177-1795056821378.jpg",
+      "imagem": "images/presente-177-1795199325065.jpg",
       "emoji": "🎁"
     },
     {
