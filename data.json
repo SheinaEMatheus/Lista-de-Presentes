@@ -435,43 +435,13 @@
       "emoji": "🎁"
     },
     {
-      "id": 150,
-      "nome": "Descanso de Travessas",
-      "categoria": "Cozinha",
-      "preco": 65,
-      "qtd": 1,
-      "presenteados": 0,
-      "imagem": "images/presente-150-1795056119053.jpg",
-      "emoji": "🎁"
-    },
-    {
-      "id": 152,
-      "nome": "Manta Queen",
-      "categoria": "Quarto e Banho",
-      "preco": 130,
-      "qtd": 1,
-      "presenteados": 0,
-      "imagem": "images/presente-152-1795056188679.jpg",
-      "emoji": "🎁"
-    },
-    {
       "id": 153,
-      "nome": "Manta Queen 350g",
+      "nome": "Manta Queen ",
       "categoria": "Quarto e Banho",
       "preco": 130,
       "qtd": 1,
       "presenteados": 0,
       "imagem": "images/presente-153-1795056191156.jpg",
-      "emoji": "🎁"
-    },
-    {
-      "id": 155,
-      "nome": "Kit Pano de Prato",
-      "categoria": "Cozinha",
-      "preco": 70,
-      "qtd": 1,
-      "presenteados": 0,
-      "imagem": "images/presente-155-1795056197690.jpg",
       "emoji": "🎁"
     },
     {
