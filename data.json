@@ -25,16 +25,6 @@
       "emoji": "🎁"
     },
     {
-      "id": 101,
-      "nome": "Cobertor Ultrasoft Queen ",
-      "categoria": "Quarto e Banho",
-      "preco": 189,
-      "qtd": 1,
-      "presenteados": 0,
-      "imagem": "images/presente-101-1795020294399.jpg",
-      "emoji": "🎁"
-    },
-    {
       "id": 102,
       "nome": "Kit Jogo De Toalhas Buddemeyer",
       "categoria": "Quarto e Banho",
@@ -42,16 +32,6 @@
       "qtd": 1,
       "presenteados": 0,
       "imagem": "images/presente-102-1795020507670.jpg",
-      "emoji": "🎁"
-    },
-    {
-      "id": 103,
-      "nome": "Kit Jogo De Toalhas Buddemeyer",
-      "categoria": "Quarto e Banho",
-      "preco": 189,
-      "qtd": 1,
-      "presenteados": 0,
-      "imagem": "images/presente-103-1795020610762.jpg",
       "emoji": "🎁"
     },
     {
@@ -462,36 +442,6 @@
       "qtd": 1,
       "presenteados": 0,
       "imagem": "images/presente-145-1795055882642.jpg",
-      "emoji": "🎁"
-    },
-    {
-      "id": 146,
-      "nome": "Kit 2 Toalhas Banhão",
-      "categoria": "Quarto e Banho",
-      "preco": 200,
-      "qtd": 1,
-      "presenteados": 0,
-      "imagem": "images/presente-146-1795056040054.jpg",
-      "emoji": "🎁"
-    },
-    {
-      "id": 147,
-      "nome": "Aparelho de Jantar 30 Peças",
-      "categoria": "Cozinha",
-      "preco": 130,
-      "qtd": 5,
-      "presenteados": 0,
-      "imagem": "images/presente-147-1795056045498.jpg",
-      "emoji": "🎁"
-    },
-    {
-      "id": 148,
-      "nome": "Kit Copos e Jarra",
-      "categoria": "Cozinha",
-      "preco": 130,
-      "qtd": 1,
-      "presenteados": 0,
-      "imagem": "images/presente-148-1795056049658.jpg",
       "emoji": "🎁"
     },
     {
