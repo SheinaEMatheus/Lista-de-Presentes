@@ -653,6 +653,16 @@
       "presenteados": 0,
       "imagem": "images/presente-180-1795200382142.jpg",
       "emoji": "🎁"
+    },
+    {
+      "id": 181,
+      "nome": "Mini Tábua De Passar Roupas ",
+      "categoria": "Casa",
+      "preco": 75,
+      "qtd": 1,
+      "presenteados": 0,
+      "imagem": "images/presente-181-1795618262482.jpg",
+      "emoji": "🎁"
     }
   ],
   "adminLock": {
